@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1637082810 source:c:\users\manvi\onedrive\desktop\practice_c\data structures\squid_game(static)\squid_op.c
+	"squid.h"
+
+1637082722 c:\users\manvi\onedrive\desktop\practice_c\data structures\squid_game(static)\squid.h
+
+1637082760 source:c:\users\manvi\onedrive\desktop\practice_c\data structures\squid_game(static)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"squid.h"
+

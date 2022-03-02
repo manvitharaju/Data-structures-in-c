@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1640027523 source:c:\users\manvi\onedrive\desktop\practice_c\data structures\lab_test_linked_functions\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lab.h"
+	<assert.h>
+
+1640027799 c:\users\manvi\onedrive\desktop\practice_c\data structures\lab_test_linked_functions\lab.h
+
+1640026409 source:c:\users\manvi\onedrive\desktop\practice_c\data structures\lab_test_linked_functions\lab.c
+	"lab.h"
+	<assert.h>
+

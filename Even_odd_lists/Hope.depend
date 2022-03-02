@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1640030394 source:c:\users\manvi\onedrive\desktop\practice_c\data structures\hope\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"hope.h"
+
+1640030079 c:\users\manvi\onedrive\desktop\practice_c\data structures\hope\hope.h
+
+1640029637 source:c:\users\manvi\onedrive\desktop\practice_c\data structures\hope\hope.c
+	"hope.h"
+	<assert.h>
+

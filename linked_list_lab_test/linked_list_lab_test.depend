@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1639419459 source:c:\users\manvi\onedrive\desktop\practice_c\data structures\linked_list_lab_test\link_operations.c
+	"link.h"
+	<assert.h>
+
+1639418977 c:\users\manvi\onedrive\desktop\practice_c\data structures\linked_list_lab_test\link.h
+
+1639419053 source:c:\users\manvi\onedrive\desktop\practice_c\data structures\linked_list_lab_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"link.h"
+	<assert.h>
+

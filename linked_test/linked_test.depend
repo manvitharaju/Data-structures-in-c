@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1637843161 source:c:\users\manvi\onedrive\desktop\practice_c\data structures\linked_test\main.c
+	<assert.h>
+	<stdlib.h>
+	"linko.h"
+
+1637843046 c:\users\manvi\onedrive\desktop\practice_c\data structures\linked_test\linko.h
+
+1637845881 source:c:\users\manvi\onedrive\desktop\practice_c\data structures\linked_test\linko_op.c
+	<stdlib.h>
+	<assert.h>
+	"linko.h"
+

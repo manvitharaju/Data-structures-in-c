@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1639492862 source:c:\users\manvi\onedrive\desktop\practice_c\data structures\merge_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"merge.h"
+	<assert.h>
+
+1639492202 c:\users\manvi\onedrive\desktop\practice_c\data structures\merge_list\merge.h
+
+1639492421 source:c:\users\manvi\onedrive\desktop\practice_c\data structures\merge_list\merge_op.c
+	"merge.h"
+
